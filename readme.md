@@ -58,3 +58,9 @@ $ composer install
  GraphQL : [http://127.0.0.1:8000/graphql/query](http://127.0.0.1:8000/graphql/query)
 
  GraphQL Ui : [http://127.0.0.1:8000/graphql-ui](http://127.0.0.1:8000/graphql-ui)
+ 
+ Blog (Part 1): [https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-67e2c5c5e150](https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-67e2c5c5e150)
+ 
+ Blog (Part 2): [https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-mutation-part-2-14dfc9ceb44c](https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-mutation-part-2-14dfc9ceb44c)
+ 
+ Blog (Part 3): [https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-jwt-authentication-part-3-ea15c2421408](https://medium.com/skyshidigital/easy-build-api-using-laravel-and-graphql-jwt-authentication-part-3-ea15c2421408)
